@@ -1,0 +1,15 @@
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0\HubOfGames.exe
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0\HubOfGames.deps.json
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0\HubOfGames.runtimeconfig.json
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0\HubOfGames.dll
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\bin\Debug\net6.0\HubOfGames.pdb
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0\HubOfGames.csproj.AssemblyReference.cache
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0\HubOfGames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0\HubOfGames.AssemblyInfoInputs.cache
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0\HubOfGames.AssemblyInfo.cs
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0\HubOfGames.csproj.CoreCompileInputs.cache
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0\HubOfGames.dll
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0\refint\HubOfGames.dll
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0\HubOfGames.pdb
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0\HubOfGames.genruntimeconfig.cache
+D:\Dados\Desktop\C#\Aulas SharpCoders\Projeto Jogo da Velha\JogoDaVelha\JogoDaVelha\obj\Debug\net6.0\ref\HubOfGames.dll
